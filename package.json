@@ -1,0 +1,26 @@
+{
+  "name": "chatbot-project-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchit0-1/chatBot-project-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchit0-1/chatBot-project-/issues"
+  },
+  "homepage": "https://github.com/sanchit0-1/chatBot-project-#readme",
+  "dependencies": {
+    "@google/genai": "^1.12.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
